@@ -111,7 +111,7 @@ public class GpaCalculator
 
  	private static void displayResults(double gpa)
 	{
-		System.out.println("| - - - - - - - | - - - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - - - - - - - - - |- - - - - - - - |");
+		System.out.println("| - - - - - - | - - - - - - | - - - - - - | - - - - - - - | - - - - - - - | - - - - - - - - - |");
 		// Display results in tabular format
 		System.out.println("\nResults:");
 		System.out.printf("%-15s%-15s%-15s%-15s%-15s%-15s\n", "Course Name", "Course Code", "COURSE UNIT","COURSE SCORE", "GRADE", "GRADE-UNIT");
